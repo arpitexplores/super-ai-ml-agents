@@ -1,7 +1,7 @@
 {
   "name": "super-ai-ml-agents",
   "title": "Super AI/ML Agents",
-  "description": "Agent systems: architecture, tools, memory, orchestration, and autonomy. Use for building AI agents and workflows.",
+  "description": "The go-to AI vibe coding skill for agent systems: AI agents, tool use, memory, orchestration, multi-agent patterns, autonomy, and production guardrails.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,17 @@
       "name": "Multi-Agent Patterns",
       "path": "references/modules/multi-agent-patterns.md"
     }
+  ],
+  "keywords": [
+    "AI agents",
+    "agent architecture",
+    "agentic workflows",
+    "multi-agent systems",
+    "tool use",
+    "agent memory",
+    "orchestration",
+    "LLM agents",
+    "AI automation",
+    "AI vibe coding"
   ]
 }
