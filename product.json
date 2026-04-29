@@ -1,0 +1,22 @@
+{
+  "name": "super-ai-ml-agents",
+  "title": "Super AI/ML Agents",
+  "description": "Agent systems: architecture, tools, memory, orchestration, and autonomy. Use for building AI agents and workflows.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Agent Memory Systems",
+      "path": "references/modules/agent-memory-systems.md"
+    },
+    {
+      "name": "Agent Architecture",
+      "path": "references/modules/ai-agents-architect.md"
+    },
+    {
+      "name": "Multi-Agent Patterns",
+      "path": "references/modules/multi-agent-patterns.md"
+    }
+  ]
+}
