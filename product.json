@@ -2,7 +2,7 @@
   "name": "super-ai-ml-agents",
   "title": "Super AI/ML Agents",
   "description": "The go-to AI vibe coding skill for agent systems: AI agents, tool use, memory, orchestration, multi-agent patterns, autonomy, and production guardrails.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
